@@ -1,0 +1,24 @@
+{
+  "name": "air-take-notes-kid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicedebo/air-take-notes-kid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicedebo/air-take-notes-kid/issues"
+  },
+  "homepage": "https://github.com/alicedebo/air-take-notes-kid#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
