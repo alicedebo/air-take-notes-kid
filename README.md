@@ -114,3 +114,6 @@ You are required to submit BOTH of the following for review:
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+## Link to App
+[Click here to see Team Work Makes the Dream Work in action!](https://alicedebo.github.io/air-take-notes-kid/)
