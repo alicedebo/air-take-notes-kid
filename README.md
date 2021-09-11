@@ -41,7 +41,7 @@ The following images show the web application's appearance and functionality:</b
 This one shows a new note I would like to add.</br>
 ![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./public/assets/images/first.png)</br>
 This one shows the note added</br>
-![Note titled “New” reads, “Alice” with other notes listed on the left.](./Assets/11-express-homework-demo-02.png)</br>
+![Note titled “New” reads, “Alice” with other notes listed on the left.](./public/assets/images/second.png)</br>
 
 
 ## Getting Started
